@@ -56,8 +56,10 @@ Traditional tools like `unrar.exe` or WinRAR’s GUI:
 ## Usage
 
 ```bash
-python rarADSExtractor.py suspicious.rar ADS_DUMP
+python rarADSExtractor.py suspicious.rar
 ```
+
+![alt text](poc.png)
 
 ---
 
